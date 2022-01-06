@@ -1,0 +1,55 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Moon Dance', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.section-1 p{
+    color: maroon;
+    font-family: 'Oswald', sans-serif;
+}
+h1 span{
+    color: orange;
+    font-family: 'Moon Dance', cursive;
+    
+}
+#focused-on-mission{
+    border-left: 7px solid;
+    border-image: linear-gradient(salmon,tomato);
+    border-image-slice: 1;
+}
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.section-2 h1{
+    text-align: center;
+    font-family: 'Moon Dance', cursive;
+    color: chocolate;
+}
+.section-2 h2{
+    color: forestgreen;
+}
+.section-2 p{
+    font-family: 'Moon Dance', cursive;
+    font-size: 20px;
+}
+.section-3 h1{
+    color: hotpink;
+    font-family: 'Moon Dance', cursive;
+}
+.section-4 h1{
+    color: mediumslateblue;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.half-width img{
+    width: 80%;
+    margin-left: 100px;
+}
+.half-width img{
+    width: 80%;
+}
